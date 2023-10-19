@@ -8,4 +8,5 @@ pip3 install -r requirements.txt
 
 # Usage
 python3 fetch.py -d test.com
+
 python3 scan.py -f test_com_all_results.json -m scan
