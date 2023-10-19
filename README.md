@@ -1,5 +1,5 @@
 # URLScanScripts
-See https://moopinger.github.io/recon/urlscan/2023/10/18/urlscan-parsing-for-gold.html
+See [https://moopinger.github.io/blog/recon/urlscan/2023/10/18/urlscan-parsing-for-gold.html](https://moopinger.github.io/blog/recon/urlscan/2023/10/18/urlscan-parsing-for-gold.html)
 
 # Install
 
